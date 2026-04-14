@@ -8,3 +8,5 @@ Information Systems graduate from Gunadarma University with a strong interest in
 [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white)](https://codeigniter.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)](https://www.postman.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white)](https://trello.com/)
