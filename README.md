@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**raihanFritz19/raihanfritz19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]Lulusan **Sistem Informasi** dari **Universitas Gunadarma** yang berfokus pada pemrograman, pengembangan web, dan analisis persyaratan sistem[cite: 42, 44, 72, 76]. [cite_start]Saya memiliki minat besar dalam membangun aplikasi web fungsional menggunakan framework PHP dan mengelola database secara efisien[cite: 39, 40, 72, 73].
 
 Here are some ideas to get you started:
 
