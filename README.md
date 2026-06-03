@@ -12,3 +12,4 @@ Information Systems graduate from Gunadarma University with a strong interest in
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white)](https://trello.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white)](https://www.jetbrains.com/idea/)
